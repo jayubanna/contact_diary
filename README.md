@@ -1,20 +1,3 @@
-![dark1](https://github.com/jayubanna/contact_diary/assets/148519408/965e1852-6ec5-4ebd-a058-01fcc2ce27d3)# contact_diary
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 * Application detail 
 
 Today I had made A application named as contact diary where we can save our contact like our family contact our friend contact our business contact and our personal contact also by using this Application or app Whenever we start contact diary application we will get beautiful splash screen in a starting of app then after we have to log in by our email and password Then you able to go in homescreen I Had also make login screen for user Privacy there is one option of adding contact where we can add the contact In Contact we have to just feel a basic detail like first name, last name ,email address, and number if user want to add the image in the contact number User can also add the image by taking from gallery or camera then we get that contact in home page by clicking on that contact we can call that contact, we can edit a specific contact, we can do SMS in that contact number By clicking on SMS icon, we can also do mail by clicking on mail icon, we can also share that contact also and in this application we can change the theme of app while changing the theme you get a three option choose from system, dark mode, light mode In this application I had also add a drawer in home page by using drawer you can change the theme of application in the home page. In Home page app bar we can see in Top-Right inside pop menu list icon By clicking on that also we can Change the theme of application so this is my application I hope that you like this application
